@@ -17,3 +17,5 @@ Thank you to the people who contributed to and improved this website:
 - Tim Zakian
 - Ville Sundell
 - Max Kaplan (CapCap)
+- Pedro Henrique Lima Abreu
+- JOSÉ JUNIOR DE OLIVEIRA
